@@ -32,3 +32,26 @@ python scraper.py 2
 
 **View the output:**
  The script will print the top articles to the console.
+
+ ## Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-branch).
+
+Make your changes.
+
+Commit your changes (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature-branch).
+
+Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+Thanks to the BeautifulSoup and requests developers for their excellent libraries.
+
+Inspired by various open-source web scraping tools.
